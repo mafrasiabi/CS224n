@@ -10,3 +10,7 @@ Official website: http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus
 **Attention Architecture**  
 
 ![Attention](Attention_Illustration.png)
+
+**Projective Dependency Parsing**
+
+The tree in Figure 1 is projective, meaning that if we put the words in their linear order, preceded by the root, the edges can be drawn above the words without crossings, or, equivalently, a word and its descendants form a contiguous substring of the sentence.
