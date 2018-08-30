@@ -7,6 +7,29 @@ Course Video: https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1r
 
 Official website: http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus.html
 
+**NLP**
+- Syntax
+  - Word2Vec
+    - CBOW
+    - Skip-Gram
+    - Glove
+  - POS tag
+  - Parsing
+    - Dependency Parsing (Shift-Reduce)
+    - Constituency Parsing (CFG)
+  - Word Segmentation (Jieba-Cut)
+- Semantics
+  - Machine Translation
+  - Named Entity Recognation
+  - Named Entity Linking
+  - Question Answering
+  - Relation Extraction
+  - Word sense disambiguation (WordNet)
+- Discourse
+  - Automatic summarization
+  - Coreference Resolution
+- Speech
+
 **Attention Architecture**  
 
 ![Attention](Attention_Illustration.png)
