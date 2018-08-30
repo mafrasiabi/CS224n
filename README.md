@@ -7,7 +7,7 @@ Course Video: https://www.youtube.com/watch?v=OQQ-W_63UgQ&list=PL3FW7Lu3i5Jsnh1r
 
 Official website: http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus.html
 
-**NLP**
+## NLP Major Tasks
 - Syntax
   - Word2Vec
     - CBOW
@@ -30,6 +30,7 @@ Official website: http://web.stanford.edu/class/cs224n/archive/WWW_1617/syllabus
   - Coreference Resolution
 - Speech
 
+## Some REC
 **Attention Architecture**  
 
 ![Attention](Attention_Illustration.png)
